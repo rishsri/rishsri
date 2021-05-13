@@ -5,7 +5,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img src="https://github.com/rishsri/rishsri/blob/main/techstack.gif?raw=true" alt="animated" width = "300px" style = "max-width:100%" align="right"/>
 
-* 🧐 More About Me:                                        
+### 🧐 More About Me:                                        
 * 🔭 Mostly working on JavaScript, React and Node.js                                                
 * 🌱 I’m currently learning Typescript;
 * ⚡ Loves sharing knowledge through technical articles
