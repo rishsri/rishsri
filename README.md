@@ -5,9 +5,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 🧐 More About Me:
-🔭   I’m currently working on club_house_clone
-🌱   I’m currently learning Typescript;
-👨🏻‍💻   Most of my projects are available on Github
-💬   Ask me about anything tech related, I am happy to help;
-📫   Feel free to ping me on <https://www.linkedin.com/in/rishabh-srivastava-020725181/>
+🔭 Mostly working on JavaScript, React and Node.js
+🌱 I’m currently learning Typescript;
+⚡ Loves sharing knowledge through technical articles
+👨🏻‍💻   Most of my projects are available on [Github](https://github.com/rishsri?tab=repositories)
+💬 Ask me about anything tech related, I am happy to help;
+📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/rishabh-srivastava-020725181/)
+
 
