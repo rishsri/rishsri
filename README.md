@@ -3,7 +3,7 @@
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐 and  beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-
+<img src="https://github.com/rishsri/rishsri/blob/main/techstack.gif?raw=true" alt="animated" width = "300px" style = "max-width:100%" align="right"/>
 
 * 🧐 More About Me:                                        
 * 🔭 Mostly working on JavaScript, React and Node.js                                                
@@ -13,9 +13,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 * 💬 Ask me about anything tech related, I am happy to help;
 * 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/rishabh-srivastava-020725181/)   
 
-<p align="left">
-  <img src="https://github.com/rishsri/rishsri/blob/main/techstack.gif?raw=true" alt="animated" width = "360px" style = "max-width:100%"/>
-</p>                            
+  
+                          
 
 ### Following are some of my articles
 
