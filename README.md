@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Rishabh Srivastava
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐 and  beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 
 * 🧐 More About Me:
@@ -12,4 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 * 💬 Ask me about anything tech related, I am happy to help;
 * 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/rishabh-srivastava-020725181/)
 
+### Following are some of my articles
 
+* [Learn TypeScript Basics ](https://rishabhsri735.medium.com/learn-typescript-basics-a601c8843fde)
+* [React Hooks Tutorial for Beginners](https://rishabhsri735.medium.com/react-hooks-tutorial-for-beginners-adadd9bae825)
